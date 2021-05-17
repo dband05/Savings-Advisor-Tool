@@ -1,4 +1,4 @@
-- Hi, I’m @dband05
+- Hi, I’m dband05
 - I’m interested in good stewardship and building tools to help do this.
 - Please read the attached word document for a detailed explaination and instructions on how to use.
 - You can reach me at dband05@gmail.com
