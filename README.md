@@ -7,4 +7,4 @@
 dband05/dband05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[Donations](https://www.paypal.com/donate?business=8SDGC34M5XXH4&item_name=Helping+to+make+your+money+matter.&currency_code=USD) are graciously accepted.
+Any [Donation](https://www.paypal.com/donate?business=8SDGC34M5XXH4&item_name=Helping+to+make+your+money+matter.&currency_code=USD) is very much appreciated.
